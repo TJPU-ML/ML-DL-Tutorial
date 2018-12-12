@@ -128,19 +128,19 @@ WeChat公众号：机器之心，数盟，量子位，新智元，
 
 ## 第一阶段：基本模型
 辅助用视频Ng的courses《machine learning》，台湾国立大学林老师《机器学习基石》、《数据挖掘导论》第4、5章
-- [感知机(Perceptron)](http://www.jianshu.com/p/f5c3bce6b7ec)(已完成)
+- [感知机(Perceptron)](http://www.jianshu.com/p/f5c3bce6b7ec)
    - [如何理解感知机算法的对偶形式](https://www.zhihu.com/question/26526858)
    - [为什么随机梯度下降方法能够收敛？](https://www.zhihu.com/question/27012077/answer/122359602)
-- [线性回归模型(Linear regression model) ](http://www.jianshu.com/p/631889a1d1e3) (已完成)
-- [逻辑回归模型(Logistic regression model) ](http://www.jianshu.com/p/4db93e9f38af)（已完成）
-- [浅层神经网络(Neural Network) ](http://www.cnblogs.com/subconscious/p/5058741.html)(已完成)
-- [支持向量机(Support Vector Machine)](http://www.jianshu.com/p/8c5131f933b5)(已完成)
-- [交叉验证(Cross Validation)[[1]]](https://zhuanlan.zhihu.com/p/23798202?refer=rdatamining) [[2]](https://zhuanlan.zhihu.com/p/24825503) [[3]](https://www.zhihu.com/question/39259296) [[4]](http://blog.sina.com.cn/s/blog_67f37e760100yes5.html)(已完成)
-- [聚类[1]](https://zhuanlan.zhihu.com/p/21387568) (已完成)
+- [线性回归模型(Linear regression model) ](http://www.jianshu.com/p/631889a1d1e3) 
+- [逻辑回归模型(Logistic regression model) ](http://www.jianshu.com/p/4db93e9f38af)
+- [浅层神经网络(Neural Network) ](http://www.cnblogs.com/subconscious/p/5058741.html)
+- [支持向量机(Support Vector Machine)](http://www.jianshu.com/p/8c5131f933b5)
+- [交叉验证(Cross Validation)[[1]]](https://zhuanlan.zhihu.com/p/23798202?refer=rdatamining) [[2]](https://zhuanlan.zhihu.com/p/24825503) [[3]](https://www.zhihu.com/question/39259296) [[4]](http://blog.sina.com.cn/s/blog_67f37e760100yes5.html)
+- [聚类[1]](https://zhuanlan.zhihu.com/p/21387568) 
   - [K-Means Model [1]](https://zhuanlan.zhihu.com/p/20432322) [[2]](https://zhuanlan.zhihu.com/p/20445085)
 - [内积与映射，线性相关/无关，特征值/特征向量、特征向量、特征分解、矩阵的迹、奇异值分解(SVD)、谱定理](http://www.jianshu.com/p/dcaaf3b58c06)
 
-## 第二阶段：最优化(已完成，主要是靠知乎和《统计学习方法》，还得继续深入理解)
+## 第二阶段：最优化（主要是靠知乎和《统计学习方法》，还得继续深入理解）
 复习《概率论与数理统计》、理解《Deep Learning》中的4.3节和4.4节，《Numerical Optimazation》、《最优化理论与方法》袁亚湘，孙文瑜、《统计学习方法》、《数据 挖掘导论》、《机器学习实战》、《智能优化方法》
 - 一阶无约束优化算法
   - 梯度下降法（步长的确定方法、线搜索法，信赖域法）
